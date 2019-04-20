@@ -2,7 +2,7 @@
 //  Searches+CoreDataClass.h
 //  LCTUrlProj
 //
-//  Created by Владимир on 20/04/2019.
+//  Created by Владимир on 21/04/2019.
 //  Copyright © 2019 Владимир. All rights reserved.
 //
 //
